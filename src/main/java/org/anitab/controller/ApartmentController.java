@@ -24,7 +24,11 @@ public class ApartmentController {
         }
         return a2;
     }
+    
 }
+
+
+// Practice RestController vs Controller 
 //package org.anitab.spring.home_sweet_hunt;
 //
 //import org.springframework.stereotype.Controller;

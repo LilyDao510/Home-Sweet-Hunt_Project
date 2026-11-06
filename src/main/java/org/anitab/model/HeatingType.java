@@ -5,6 +5,6 @@ public enum HeatingType {
     OIL,
     HEAT_PUMP,
     ELECTRIC,
-    FORCE_AIR,
+    FORCED_AIR,
     SOLAR
 }

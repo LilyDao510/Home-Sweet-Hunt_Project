@@ -1,4 +1,4 @@
-package org.anitab.spring.home_sweet_hunt;
+package org.anitab.model;
 
 public class Apartment {
     private String streetAddress;
