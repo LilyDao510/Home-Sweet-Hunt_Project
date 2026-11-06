@@ -1,10 +1,10 @@
 package org.anitab.controller;
 
+import java.util.List;
+
+import org.anitab.model.Apartment;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.anitab.model.
-
-import java.util.List;
 
 @RestController
 public class ApartmentController {
@@ -24,8 +24,6 @@ public class ApartmentController {
         }
         return a2;
     }
-
-
 }
 //package org.anitab.spring.home_sweet_hunt;
 //

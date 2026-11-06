@@ -1,5 +1,5 @@
 package org.anitab;
-import org.anitab.controller.Apartment;
+import org.anitab.model.Apartment;
 
 /**
  * Hello world!
