@@ -24,6 +24,7 @@ public class ApartmentController {
         }
         return a2;
     }
+    @GetMapping("/dog")
     
 }
 
